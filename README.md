@@ -1,6 +1,6 @@
 # React Native Assignment 2
 
-This project is for the DCIT202 Mobile Application Development course.
+DCIT202-Mobile Application Development
 
 ## Student ID
 11357247
